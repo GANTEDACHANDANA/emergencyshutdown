@@ -3,3 +3,5 @@ project:
   author: "Ganteda Chandana"
   description: "FPGA-to-ASIC E-Stop & Watchdog logic"
   top_module: "project"
+
+yaml_version: 6
